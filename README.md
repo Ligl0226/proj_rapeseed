@@ -1,5 +1,7 @@
 # proj_rapeseed
-The project is in cooperation with PengYu. Here are all the R scripts used in the analysis.
+Large-scale multi-1 omics unveils host-microbiome interactions driving root development and nitrogen acquisition. 
+
+Here are all the R scripts used in the analysis.
 
 (1) Genomic prediction of 203 ASVs;
 
