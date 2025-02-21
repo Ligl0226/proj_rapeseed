@@ -13,3 +13,5 @@
 (4) eGWAS for all 17006 Genes;
 
 (5) TWAS for all 203 ASVs
+
+More detailed and nuanced script usage is thoroughly annotated within the document.
