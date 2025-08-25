@@ -1,0 +1,2 @@
+Data availability
+All raw rapeseed RNA-seq and bacterial 16S gene data generated in this study have been deposited in the Sequence Read Archive (http://www.ncbi.nlm.nih.gov/sra) under the BioProject IDs: PRJNA986524 (KF, RNA-seq), PRJNA990484 (YL, RNA-seq), PRJNA956663 (KF, 16S) and PRJNA960662 (YL, 16S).
