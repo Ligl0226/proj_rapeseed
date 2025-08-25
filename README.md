@@ -8,6 +8,7 @@ This repository provides the data and scripts required to reproduce the analyses
 - **Cleaned multi-omics datasets** for downstream analyses
 - **Kinship matrices** derived from each omics dataset
 - **Input data and plotting scripts** for all main and supplementary figures
+  - Each folder contains one or two R scripts. By reading the comments at the beginning of each script, users can quickly understand its main purpose. The input files required for running the script can be easily identified from the data-reading commands within the script, allowing users to rerun the analyses and reproduce the initial draft figures. All input files are either located within the same folder as the script or in the 02.CleanOriData folder.
 - **R scripts** for multi-omics prediction and association analyses:
   - Genomic prediction of 203 ASVs  
   - Genomic prediction of 13 ionomic  
