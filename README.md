@@ -20,6 +20,4 @@ This repository provides the data and scripts required to reproduce the analyses
 All scripts are thoroughly annotated with detailed usage instructions to ensure reproducibility.
 
 ## Citation
-> Li N, Li G, Wang D, Ma L, Huang X, Bai Z, et al.  
-> **Large-scale multi-omics analyses identified root-microbiome associations underlying plant nitrogen nutrition** [Internet].  
-> 2024 [cited 2025 Aug 25]. Available from: [http://biorxiv.org/lookup/doi/10.1101/2024.02.05.578621](http://biorxiv.org/lookup/doi/10.1101/2024.02.05.578621)
+Li, N., Li, G., Huang, X. *et al.*  **Large-scale multi-omics unveils host–microbiome interactions driving root development and nitrogen acquisition.**  *Nature Plants* **12**, 319–336 (2026).  https://doi.org/10.1038/s41477-025-02210-7
